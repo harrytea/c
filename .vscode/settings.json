@@ -1,0 +1,9 @@
+{
+    "task.problemMatchers.neverPrompt": null,
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": true,
+    "editor.mouseWheelZoom": true,
+    "files.associations": {
+        "cmath": "c"
+    }
+}
